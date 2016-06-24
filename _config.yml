@@ -21,7 +21,7 @@ urls:
       url: '#'
       icon: fa-graduation-cap
     - text: Github
-      url: https://github.com/ashutosh2k12
+      url: https://github.com/shitalp
       icon: fa-github
     - text: XML Feed
       url: /feed.xml
