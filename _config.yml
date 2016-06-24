@@ -21,7 +21,7 @@ urls:
       url: '#'
       icon: fa-graduation-cap
     - text: Github
-      url: https://github.com/shitalp
+      url: https://github.com/Pothanna
       icon: fa-github
     - text: XML Feed
       url: /feed.xml
