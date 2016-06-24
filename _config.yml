@@ -47,8 +47,8 @@ share:
 enableTags: true
 tagarray: []
 
-url: "http://aboutashu.com/hcz-jekyll-blog"
-baseurl: "/hcz-jekyll-blog"
+url: "https://shitalp.github.io"
+baseurl: "/shitalp.github.io"
 paginate: 20
 per_page: 20
 paginate_path: "/page:num/"
