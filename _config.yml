@@ -48,7 +48,7 @@ enableTags: true
 tagarray: []
 
 url: "https://shitalp.github.io"
-baseurl: "/shitalp.github.io"
+baseurl: "/"
 paginate: 20
 per_page: 20
 paginate_path: "/page:num/"
